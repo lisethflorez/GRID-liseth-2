@@ -1,0 +1,84 @@
+.flex{
+    display: grid;
+    column-gap: 50px;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+    background-color: rgb(10, 12, 12);
+    padding: 10px;
+}
+.flex1{
+    background-color: rgb(234,125, 230);
+    border: 1px solid rgba(0,0, 0, 0.8);
+    grid-column-start: 1;
+    grid-column-end: 3;
+    padding: 12vw;
+    font-size: 19vw;
+    text-align: center;
+
+}
+.flex2{
+    background-color: rgb(234,125, 230);
+    border: 1px solid rgba(0,0, 0, 0.8);
+    grid-column-start: 1;
+    grid-column-end: 3;
+    padding: 12vw;
+    font-size: 19vw;
+    text-align: center;
+
+}
+.flex3{
+    background-color: rgb(234,125, 230);
+    border: 1px solid rgba(0,0, 0, 0.8);
+    grid-column-start: 3;
+    grid-column-end: 5;
+    margin-top: -46vw;
+    padding: 20vw;
+    font-size: 30vw;
+    text-align: center;
+
+}
+.flex4{
+    background-color: rgb(234,125, 230);
+    border: 1px solid rgba(0,0, 0, 0.8);
+    grid-column-start: 1;
+    grid-column-end: 5;
+    padding: 20vw;
+    font-size: 30vw;
+    text-align: center;
+
+}
+.extin{
+    display: grid;
+    column-gap: 50px;
+    grid-template-columns: auto auto auto ;
+    gap: 10px;
+    background-color: rgb(10, 12, 12);
+    padding: 10px;
+}
+.extin1{
+    background-color: rgb(234,125, 230);
+    border: 1px solid rgba(0,0, 0, 0.8);
+    grid-column-start: 1;
+    grid-column-end: 3;
+    padding: 12vw;
+    font-size: 19vw;
+    text-align: center;
+}
+.extin2{
+    background-color: rgb(234,125, 230);
+    border: 1px solid rgba(0,0, 0, 0.8);
+    grid-column-start: 1;
+    grid-column-end: 3;
+    padding: 12vw;
+    font-size: 19vw;
+    text-align: center;
+}
+.extin3{
+    background-color: rgb(234,125, 230);
+    border: 1px solid rgba(0,0, 0, 0.8);
+    grid-column-start: 3;
+    grid-column-end: 3;
+    padding: 12vw;
+    font-size: 19vw;
+    text-align: center;
+}
