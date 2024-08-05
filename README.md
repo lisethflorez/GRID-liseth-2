@@ -4,3 +4,6 @@ trabajo de columnas que se trata de una barra de navegacion y debe tener cuatro 
 - acerca de
 - servicios
 - contacto
+  ## contenido
+  cerca una seccion de articulos destacados utilizando flexbox.
+  y en cada articulo debe tener una imagen 
